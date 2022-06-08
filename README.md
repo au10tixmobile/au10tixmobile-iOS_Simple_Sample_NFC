@@ -11,19 +11,12 @@
 ## Overview
 Verified, compliant and fraud-free onboarding results in eight seconds (or less). By the time you read this sentence, AU10TIX will have converted countless human smiles, identity documents and data points into authenticated, all-access passes to your products, services and experiences.
 
-This example application presents an implementation suggestion for the Au10tix Mobile SDK.
-
-The following integration examples are included:
-- Passive Face Liveness
-- Smart Document Capture
-- Proof of Address
-- UI components integration
-- Sending results to the backend.
-- NFC (frameworks should be requested separately from Au10tix)
+This example application presents an implementation suggestion for the Au10tix Mobile SDK NFC Module.
 
 ## Usage
 
-To use this sample you have to edit the sample files according to the following steps.
+ - To use this sample you have to edit the sample files according to the following steps.
+ - The NFC frameworks should be requested separately from Au10tix
 
 ### JWT token
 The SDK is prepared using the JWT token produced by the client's server.
