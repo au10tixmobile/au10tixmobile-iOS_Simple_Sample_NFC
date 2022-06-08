@@ -11,7 +11,7 @@
 ## Overview
 Verified, compliant and fraud-free onboarding results in eight seconds (or less). By the time you read this sentence, AU10TIX will have converted countless human smiles, identity documents and data points into authenticated, all-access passes to your products, services and experiences.
 
-This example application presents an implementation suggestion for the Au10tix Mobile SDK NFC Module.
+This example application presents an implementation suggestion for the **Au10tix Mobile SDK NFC Module**.
 
 ## Usage
 
